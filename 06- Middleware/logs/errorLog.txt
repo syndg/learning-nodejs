@@ -1,0 +1,1 @@
+20231027	14:50:38	9ed30777-ac34-420c-abef-c0a38938c9e1	Error: Not allowed by CORS
