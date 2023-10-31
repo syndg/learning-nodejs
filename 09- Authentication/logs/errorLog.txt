@@ -1,0 +1,2 @@
+20231027	14:50:38	9ed30777-ac34-420c-abef-c0a38938c9e1	Error: Not allowed by CORS
+20231027	15:25:59	346a6ea8-1286-4c7d-a1d5-99a2ff980ec4	Error: ENOENT: no such file or directory, stat '/home/syndg/Coding/nodejs/07- Routing/routes/views/index.html'
